@@ -47,7 +47,7 @@ int main(int argc, char *argv[]) {
         vectorfile << ' ' << *it;
     }
 
-    const int M = 1;
+    const int M = 2;
 
     map<list<string>, vector<string> > wordmap;
     list<string> state;
